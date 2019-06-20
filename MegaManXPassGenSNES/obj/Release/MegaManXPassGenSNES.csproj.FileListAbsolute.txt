@@ -1,0 +1,9 @@
+C:\workspace_sandbox\MegaManXPassGenSNES\MegaManXPassGenSNES\bin\Release\MegaManXPassGenSNES.exe.config
+C:\workspace_sandbox\MegaManXPassGenSNES\MegaManXPassGenSNES\bin\Release\MegaManXPassGenSNES.exe
+C:\workspace_sandbox\MegaManXPassGenSNES\MegaManXPassGenSNES\bin\Release\MegaManXPassGenSNES.pdb
+C:\workspace_sandbox\MegaManXPassGenSNES\MegaManXPassGenSNES\obj\Release\MegaManXPassGenSNES.Form1.resources
+C:\workspace_sandbox\MegaManXPassGenSNES\MegaManXPassGenSNES\obj\Release\MegaManXPassGenSNES.Properties.Resources.resources
+C:\workspace_sandbox\MegaManXPassGenSNES\MegaManXPassGenSNES\obj\Release\MegaManXPassGenSNES.csproj.GenerateResource.cache
+C:\workspace_sandbox\MegaManXPassGenSNES\MegaManXPassGenSNES\obj\Release\MegaManXPassGenSNES.csproj.CoreCompileInputs.cache
+C:\workspace_sandbox\MegaManXPassGenSNES\MegaManXPassGenSNES\obj\Release\MegaManXPassGenSNES.exe
+C:\workspace_sandbox\MegaManXPassGenSNES\MegaManXPassGenSNES\obj\Release\MegaManXPassGenSNES.pdb
